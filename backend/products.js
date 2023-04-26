@@ -13,7 +13,8 @@ const products = [
       description:
         "Lorem ipsum, dolor sit amet consectetur adipisicing elite. Sequi, perferendis beatae asperiores.",
       price: 200,
-      imageLink: "https://res.cloudinary.com/dlz1h6dhr/image/upload/v1680872470/online%20store/4_suniet.jpg",
+      imageLink: "https://res.cloudinary.com/dlz1h6dhr/image/upload/v1680872470/online%20store/1_mrh258.jpg",
+
     },
     {
       id: 3,
